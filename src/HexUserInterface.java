@@ -24,6 +24,7 @@ public class HexUserInterface extends UserInterface {
 
 	}
 
+	//
 	private void makeFrame() {
 
 		JPanel contentPane = (JPanel) frame.getContentPane();
