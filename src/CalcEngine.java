@@ -22,7 +22,7 @@ public class CalcEngine {
 		this.displayValue = displayValue;
 	}
 
-// The value of an existing left operand.
+//The value of an existing left operand.
 	protected int leftOperand;
 
 	/**
