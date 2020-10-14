@@ -58,6 +58,7 @@ public class HexUserInterface extends UserInterface {
 				}
 			}
 		});
+		
 		newOperationsPanel1.add(checkbox);
 		checkbox.addActionListener(this);
 		newOperationsPanel1.add(new JLabel(" "));
